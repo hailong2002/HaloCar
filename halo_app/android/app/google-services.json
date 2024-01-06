@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "601039066069",
+    "project_id": "halo-app-f7518",
+    "storage_bucket": "halo-app-f7518.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601039066069:android:d11e4e9cde96f7b7d0235c",
+        "android_client_info": {
+          "package_name": "com.example.halo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601039066069-lhb30trhnsslpc94svok7gsvntbmf8r1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.halo_app",
+            "certificate_hash": "5c9b80f66c0704b0c4df9baf3e087277aa55e0c7"
+          }
+        },
+        {
+          "client_id": "601039066069-gbefu71jsbdl91j1neuijjh5aopnaeld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmAGMOuu6W0mcMwmPo__TTcQ9ZfaD5-t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601039066069-2pag2f7rfaupkclannphrnu8iicu1eo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
